@@ -38,6 +38,6 @@ etc. then, i wrote a endpoint to see the jobstatus, actual filesize and object u
                 ]
             }
 
-4. i remove gitignore, so that you can easily clone and just php artisan serve on your local machine will launch the laravel app 
+4. i remove gitignore, so that you can easily download the zip and just php artisan serve on your local machine will launch the laravel app 
 
 
